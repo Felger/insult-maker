@@ -61,7 +61,10 @@ var slurs = null;
 var insults = null;
 function setSlurs(json) {
   slurs = new Slurs(json);
-  for (slur in slurs.list) {
+  var keys = Object.keys(slurs.list)
+  keys.sort();
+  for (slur in keys) {
+    slur = keys[slur];
     var race = $("<a></a>").text(slur);
     race.attr("href", "#");
     race.addClass('dropdown-item');
