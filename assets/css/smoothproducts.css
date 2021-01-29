@@ -177,3 +177,8 @@ html, body {
   overflow-y: auto;
 }
 
+img, svg {
+  -webkit-filter: invert(1);
+  filter: invert(100%);
+}
+
