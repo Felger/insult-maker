@@ -95,6 +95,9 @@ function generateInsult() {
   var text = '';
   if (slurs === null || insults === null) {
     text = 'The developer is a churlish sodden-witted plaguesore.'
+  } else if (slurs.race == 'Items') {
+    // These are standalone insults, don't need a prefix.
+    text = slurs.getSlur()
   } else {
     text = insults.getFirst2() + ' ';
     var slur = slurs.getSlur()
