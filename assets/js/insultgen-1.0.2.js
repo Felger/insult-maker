@@ -87,6 +87,7 @@ function setWelcomeText() {
   text = "Welcome to the Fantasy Insult Maker, you ";
   text += insults.getFullInsult('lower') + ".";
   $("#welcome-text").text(text);
+  generateInsult();
 }
 function setInsultRace(race) {
   $('#race-dropdown-button').text(race);
