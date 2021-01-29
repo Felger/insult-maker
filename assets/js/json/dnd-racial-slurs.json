@@ -2,11 +2,11 @@
     {
         "title" : "Aarakocra",
         "list" : [
-            "Bird-Brains",
+            "Bird-Brain",
             "Bird-Man",
-            "Caw-Caws",
+            "Caw-Caw",
             "Crow",
-            "Hollowbones",
+            "Hollowbone",
             "Parrot (in tropical/port cities)",
             "Pigeon",
             "Raven",
@@ -21,12 +21,12 @@
             "Chicken",
             "Chickenbrain",
             "God's Pet",
-            "Goody Two Shoes",
+            "Goody Two Shoe",
             "Wingless Earthbound Bastard Half Breed"
         ]
     },
     {
-        "title" : "Anyone who isn't water breathing",
+        "title" : "Non-water breathers",
         "list" : [
             "Drowner",
             "Landdweller",
@@ -35,21 +35,21 @@
         ]
     },
     {
-        "title" : "Centuars",
+        "title" : "Centaurs",
         "list" : [
-            "Clippity-Clops",
-            "Half-Horses",
-            "Horse Bastards"
+            "Clippity-Clop",
+            "Half-Horse",
+            "Horse Bastard"
         ]
     },
     {
-        "title" : "Dragonborns",
+        "title" : "Dragonborn",
         "list" : [
             "Boot",
             "Dragon Refuse",
-            "Fake-Drakes",
+            "Fake-Drake",
             "Fly Eater",
-            "Forked-Tongues",
+            "Forked-Tongue",
             "Gecko",
             "Iguana Wannabe",
             "Lizard",
@@ -59,10 +59,10 @@
             "Man-Eater",
             "Newt",
             "Overgrown Iguana",
-            "Scalebacks",
-            "Scales",
+            "Scaleback",
+            "Scale",
             "Scalie",
-            "Skinks",
+            "Skink",
             "Snakeskin",
             "Tall Kobold",
             "Walking Purse",
@@ -76,13 +76,13 @@
             "Ash-Face",
             "Cavemen",
             "Chimney Sweep",
-            "Dirt Elves",
+            "Dirt Elve",
             "Dwarven Imposter",
             "Filth-Skin",
             "Moss Licker",
             "Murker",
             "Spider Kisser",
-            "Tall Dwarfs",
+            "Tall Dwarf",
             "Underscum"
         ]
     },
@@ -91,17 +91,17 @@
         "list" : [
             "Angry Footstool",
             "Beard-Goblin",
-            "Bushies",
+            "Bushie",
             "Cave Hippo",
             "Copper Polisher",
             "Dirt Farie",
             "Dirt-Licker",
             "Flea-Bearded Alestain",
             "Giant Snot",
-            "Gnomes",
+            "Gnome",
             "Gold Digger",
-            "Gut Draggers",
-            "Gutter Rats",
+            "Gut Dragger",
+            "Gutter Rat",
             "Hairy Brewery",
             "Hairy Halfling",
             "Half-Man",
@@ -109,7 +109,7 @@
             "Hammer Midget",
             "Hill Farie",
             "Keg Belly",
-            "Knoties",
+            "Knotie",
             "Lumberfoot",
             "Maggots (according to legend!)",
             "Mountain Farie",
@@ -122,7 +122,7 @@
             "Rockhead",
             "Spuds (both are lumpy and come from the ground)",
             "Squash (they look like squashed humans)",
-            "Stone Domes",
+            "Stone Dome",
             "Stone Humper",
             "Stone Sh*tter",
             "Stunt",
@@ -134,11 +134,11 @@
     {
         "title" : "Elves",
         "list" : [
-            "Arrogant Stuck Up Tree Fondling Hippies",
+            "Arrogant Stuck Up Tree Fondling Hippie",
             "Bark Sniffer",
             "Beardless",
             "Bird Boned",
-            "Butterboys",
+            "Butterboy",
             "Chinfolk",
             "Daggar Head",
             "Daisy Sniffer",
@@ -149,31 +149,31 @@
             "Fairy Folk",
             "Faithless Woodland Sprite",
             "Fancy Lad",
-            "Farie Wannabes",
-            "Fey Mongrols",
+            "Farie Wannabe",
+            "Fey Mongrol",
             "Keeb",
-            "Knife-Ears",
-            "Leaf Lickers",
+            "Knife-Ear",
+            "Leaf Licker",
             "Leafblower",
-            "Left Handed Casters",
-            "Light Weights",
-            "Mushroom Dancers",
+            "Left Handed Caster",
+            "Light Weight",
+            "Mushroom Dancer",
             "Oozebait (especially elf children)",
             "Pixie",
             "Pointy",
-            "Pointy Ears",
+            "Pointy Ear",
             "Pole-Proportioned Dendrophile",
             "Rabbit",
-            "Sharp Ears",
+            "Sharp Ear",
             "Tinkerbell",
             "Tree F*cker",
             "Tree Hugger",
-            "Tree-Thumpers",
+            "Tree-Thumper",
             "Waste of Immortality",
             "Wedgie (they're uptight)",
             "Weed Eater",
             "Wingless Farie",
-            "Wood-Heads"
+            "Wood-Head"
         ]
     },
     {
@@ -181,7 +181,7 @@
         "list" : [
             "Giant Half-Breed",
             "Half-Baked Goliath",
-            "Moss-Brains",
+            "Moss-Brain",
             "Overgrown Dwarf"
         ]
     },
@@ -192,16 +192,16 @@
             "Leaf Blower",
             "Spark Plug",
             "Unfavorable Fart (from orcs; orcs aren't great at throwing shade)",
-            "Windbags"
+            "Windbag"
         ]
     },
     {
         "title" : "Genasi (Earth)",
         "list" : [
             "Gravel Bed",
-            "Rock-for-Brains",
+            "Rock-for-Brain",
             "Sedimentary",
-            "Slabs",
+            "Slab",
             "Stone Sucker"
         ]
     },
@@ -232,9 +232,9 @@
         ]
     },
     {
-        "title" : "Gnoll",
+        "title" : "Gnolls",
         "list" : [
-            "Carrion-Eaters",
+            "Carrion-Eater",
             "Cur",
             "Dog",
             "Hunger Slave",
@@ -245,22 +245,22 @@
         "title" : "Gnomes",
         "list" : [
             "Ankle Biter",
-            "Bug-Eyed Stumps",
+            "Bug-Eyed Stump",
             "Cone Head",
             "Discount Dwarf",
-            "Dwarflings",
+            "Dwarfling",
             "Fat Fairy",
-            "Glamer-Slingers",
+            "Glamer-Slinger",
             "Halfling",
             "KneeLicker",
-            "Lawn Darts",
-            "Lawn Ornaments",
+            "Lawn Dart",
+            "Lawn Ornament",
             "Mini-Elf",
             "Mushroom Sucker",
             "Quarterling",
             "Shaved Hobgoblin",
-            "Sniffers",
-            "Tinkertots",
+            "Sniffer",
+            "Tinkertot",
             "Trickster"
         ]
     },
@@ -276,7 +276,7 @@
         ]
     },
     {
-        "title" : "Goliath",
+        "title" : "Goliaths",
         "list" : [
             "Mini-Giant",
             "Stoneskin",
@@ -286,25 +286,25 @@
     {
         "title" : "Half-Elves (from elves)",
         "list" : [
-            "Bastards",
+            "Bastard",
             "Half Bad",
             "Half Breed",
             "Halfie",
-            "Mayfly Babies",
-            "Mongrels",
-            "Moodbloods"
+            "Mayfly Babie",
+            "Mongrel",
+            "Moodblood"
         ]
     },
     {
         "title" : "Half-Elves (from humans)",
         "list" : [
-            "Fling Kids",
+            "Fling Kid",
             "Half Good",
-            "Halfways",
-            "Mules",
-            "Mutts",
+            "Halfway",
+            "Mule",
+            "Mutt",
             "Not Enough",
-            "Traitor Babies"
+            "Traitor Baby"
         ]
     },
     {
@@ -329,8 +329,8 @@
             "Shaved Dwarf",
             "Shin Licker",
             "Small Fry",
-            "Sneakies",
-            "Sticky Fingers",
+            "Sneakie",
+            "Sticky Finger",
             "Succling",
             "Swine"
         ]
@@ -342,31 +342,30 @@
             "Dire Halfling",
             "Doubling (from halflings)",
             "Dust",
-            "Full-Lings",
+            "Full-Ling",
             "Generic Protag #435 (if a PC)",
             "Graceless Elf",
-            "Joe Bloggs",
+            "Joe Blogg",
             "Humie",
             "Lumberfoot",
             "Mayfly",
             "Milkskins (from orcs)",
             "Monkey",
-            "Monkeys",
-            "Morties",
+            "Mortie",
             "Normie",
             "Pig Skin",
             "Pink Thing",
             "Pink-Skin",
-            "Pinks",
+            "Pink",
             "Quisling (a human who spends a lot of time around a dragonborn)",
             "Rabbit Spawn (from elves because of how fast humans breed by comparison)",
-            "Round Ears",
+            "Round Ear",
             "Roundteeth",
             "Short-Life",
             "Shortlived",
             "Smoothskin",
             "Soft One (from lizardfolk)",
-            "Spoon-Ears",
+            "Spoon-Ear",
             "Succling",
             "Swine",
             "Tree-Killers (from elves)",
@@ -375,38 +374,38 @@
         ]
     },
     {
-        "title" : "Indirect",
+        "title" : "Items",
         "list" : [
-            "A bag of leftovers from a restaurant: \"<em>An Orc-y Bag</em>\"",
-            "A dagger: \"<em>A Gnomish Greatsword</em>\"",
-            "Bad breath: \"<em>Dragonborn Singing</em>\"",
-            "Barrels of whiskey: \"<em>Dwarven Wetnurse</em>\"",
-            "Happy endings at a massage parlor: \"<em>Human Style</em>\"",
-            "Laying a dwarf or gnome: \"<em>Boulder Rolling</em>\"",
-            "Picking a lock: \"<em>Banging a Halfling's Sister</em>\"",
-            "Pickpocketing: \"<em>Halfing Handshake</em>\"",
-            "Public drunkenness: \"<em>Going Dwarven</em>\"",
-            "Stealing a horse: \"<em>Taking a Half-Orc Bride</em>\"",
-            "The act of going barefoot: \"<em>Wearing Halfling Shoes</em>\" (some stores have signs forbidding halfling shoes)",
-            "The bastard children of non-human races: \"<em>Half-Man</em>\"",
-            "Unshaven men: \"<em>Dwarf Babies</em>\"",
-            "Vegetables: \"<em>Elf Food</em>\"",
-            "Whiskey: \"<em>Dwarf Milk</em>\""
+            "A bag of leftovers from a restaurant: \"An Orc-y Bag\"",
+            "A dagger: \"A Gnomish Greatsword\"",
+            "Bad breath: \"Dragonborn Singing\"",
+            "Barrels of whiskey: \"Dwarven Wetnurse\"",
+            "Happy endings at a massage parlor: \"Human Style\"",
+            "Laying a dwarf or gnome: \"Boulder Rolling\"",
+            "Picking a lock: \"Banging a Halfling's Sister\"",
+            "Pickpocketing: \"Halfing Handshake\"",
+            "Public drunkenness: \"Going Dwarven\"",
+            "Stealing a horse: \"Taking a Half-Orc Bride\"",
+            "The act of going barefoot: \"Wearing Halfling Shoes\" (some stores have signs forbidding halfling shoes)",
+            "The bastard children of non-human races: \"Half-Man\"",
+            "Unshaven men: \"Dwarf Babies\"",
+            "Vegetables: \"Elf Food\"",
+            "Whiskey: \"Dwarf Milk\""
         ]
     },
     {
         "title" : "Kenku",
         "list" : [
-            "Caw-Caws",
-            "Copycats",
+            "Caw-Caw",
+            "Copycat",
             "Crow",
-            "Flightless",
-            "Hollowbones",
-            "Jabbers",
-            "Mockingbirds",
-            "Noisemakers",
-            "Parrot (in tropical/port cities)",
-            "Peckers",
+            "Flightles",
+            "Hollowbone",
+            "Jabber",
+            "Mockingbird",
+            "Noisemaker",
+            "Parrot",
+            "Pecker",
             "Raven"
         ]
     },
@@ -414,8 +413,9 @@
         "title" : "Kobolds",
         "list" : [
             "Little Lizardfolk",
-            "Scaly Gnomes",
-            "Yippers"
+            "Scaly Gnome",
+            "Yipper",
+            "Ankle-Biter"
         ]
     },
     {
@@ -452,7 +452,7 @@
         ]
     },
     {
-        "titles" : ["Orcs","Half-Orcs"],
+        "titles" : ["Orc","Half-Orcs"],
         "list" : [
             "Broccoli Head",
             "Dorc",
@@ -473,7 +473,7 @@
             "Scumbreed",
             "Slimeskin",
             "Swampskin",
-            "The Green Beast (referring collectively)",
+            "Green Beast",
             "Tusk-Face",
             "Tusker"
         ]
@@ -493,9 +493,9 @@
     {
         "title" : "Tieflings",
         "list" : [
-            "Brighteyes",
-            "Bullheads",
-            "Clip-Clops",
+            "Brighteye",
+            "Bullhead",
+            "Clip-Clop",
             "Demon Child",
             "Demon Wannabe",
             "Devil Bastard",
@@ -503,31 +503,31 @@
             "Failbirth",
             "Filth",
             "Freak",
-            "Gargoyles",
+            "Gargoyle",
             "Goat Face",
-            "Half-Hells",
-            "Handle Heads",
+            "Half-Hell",
+            "Handle Head",
             "Hell-Touched",
             "Hellspawn",
             "Pox",
             "Sideshow",
-            "Tainted Ones",
-            "Tall Imps",
+            "Tainted One",
+            "Tall Imp",
             "Unbirth",
-            "Unloveables (from demons)"
+            "Unloveable"
         ]
     },
     {
-        "title" : "Tortle",
+        "title" : "Tortles",
         "list" : [
             "Dome Head",
             "Shellhead",
-            "Shell-less",
+            "Shell-les",
             "Slowpoke"
         ]
     },
     {
-        "title" : "Triton",
+        "title" : "Tritons",
         "list" : [
             "Coral Eater",
             "Dolphin Born",
@@ -539,24 +539,24 @@
         "title" : "Warforged",
         "list" : [
             "Clinking Clanking Clattering Collection of Caliginous Junk",
-            "Dolls",
-            "Dumbells",
-            "Dummies (as in training/target dummy)",
-            "Fakes / Facsimiles",
+            "Doll",
+            "Dumbell",
+            "Dummy (as in training/target dummy)",
+            "Fake",
+            "Facsimile",
             "Gear Head",
-            "Golem (they're living constructs)",
-            "Golems",
+            "Golem",
             "Hunk of Junk",
             "Lemon",
-            "Made-to-Orders",
-            "Marionettes / Puppets",
+            "Made-to-Order",
+            "Marionettes / Puppet",
             "Robot",
             "Rust Bucket",
-            "Rusties",
-            "Scarecrows",
+            "Rustie",
+            "Scarecrow",
             "Scrap Heap",
             "Walking Casket",
-            "Walking Talking Tools"
+            "Walking Talking Tool"
         ]
     }
 ]

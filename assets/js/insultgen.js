@@ -7,6 +7,7 @@ fetch('./assets/js/json/insults.json')
 
 class Slurs {
   constructor(json) {
+    this.race = "Generic Insult"
     this.list = {}
     for (var race in json) {
       race = json[race]
@@ -19,13 +20,15 @@ class Slurs {
       }
     }
   }
-  getSlur(race) {
-    console.log(this.list);
-    if (race in this.list) {
-      return getRandomElem(this.list[race]);  
+  getSlur() {
+    if (this.race in this.list) {
+      return getRandomElem(this.list[this.race]);  
     } else {
       return null;
     }
+  }
+  setRace(race) {
+    this.race = race;
   }
 }
 
@@ -39,8 +42,13 @@ class Insults {
   getFirst2() {
     return this.getInsult(0) + ' ' + this.getInsult(1);
   }
-  getFullInsult() {
-    return this.getFirst2() + ' ' + this.getInsult(2);
+  getFullInsult(lower=null) {
+    var text = this.getFirst2() + ' ' + this.getInsult(2);
+    if (lower !== null) {
+      return text.toLowerCase();
+    } else {
+      return text;
+    }
   }
 }
 
@@ -54,17 +62,33 @@ var insults = null;
 function setSlurs(json) {
   slurs = new Slurs(json);
   for (slur in slurs.list) {
-    console.log(slur);
     var race = $("<a></a>").text(slur);
     race.attr("href", "#");
     race.addClass('dropdown-item');
+    race.attr("onclick", "setInsultRace('" + slur + "')");
     $('#race-menu').append(race);
+  }
+  if (insults !== null) {
+    setWelcomeText()
   }
 }
 
 function setInsults(json) {
   insults = new Insults(json);
-  console.log(insults.getFullInsult());
+  if (slurs !== null) {
+    setWelcomeText()
+  }
+}
+
+function setWelcomeText() {
+  text = "Welcome to the Fantasy Insult Maker, you ";
+  text += insults.getFullInsult('lower') + ".";
+  $("#welcome-text").text(text);
+}
+function setInsultRace(race) {
+  $('#race-dropdown-button').text(race);
+  slurs.setRace(race);
+  generateInsult()
 }
 
 function generateInsult() {
@@ -72,7 +96,25 @@ function generateInsult() {
   if (slurs === null || insults === null) {
     text = 'The developer is a churlish sodden-witted plaguesore.'
   } else {
-    text = insults.getFirst2() + ' ' + slurs.getSlur()
+    text = insults.getFirst2() + ' ';
+    var slur = slurs.getSlur()
+    if (slur === null) {
+      text += insults.getInsult(2);
+    } else {
+      text += slur;
+    }
   }
   $('#insult-text').val(text);
+}
+
+function copyInsult() {
+  /* Get the text field */
+  var copyText = document.getElementById("insult-text");
+
+  /* Select the text field */
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+  /* Copy the text inside the text field */
+  document.execCommand("copy");
 }
