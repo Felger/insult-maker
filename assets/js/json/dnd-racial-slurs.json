@@ -76,7 +76,7 @@
             "Ash-Face",
             "Cavemen",
             "Chimney Sweep",
-            "Dirt Elve",
+            "Dirt Elf",
             "Dwarven Imposter",
             "Filth-Skin",
             "Moss Licker",
@@ -94,7 +94,7 @@
             "Bushie",
             "Cave Hippo",
             "Copper Polisher",
-            "Dirt Farie",
+            "Dirt Faerie",
             "Dirt-Licker",
             "Flea-Bearded Alestain",
             "Giant Snot",
@@ -111,7 +111,7 @@
             "Keg Belly",
             "Knotie",
             "Lumberfoot",
-            "Maggots (according to legend!)",
+            "Maggots",
             "Mountain Farie",
             "Oremonger",
             "Pubic Face",
@@ -120,8 +120,8 @@
             "Rock Biter",
             "Rock Eater",
             "Rockhead",
-            "Spuds (both are lumpy and come from the ground)",
-            "Squash (they look like squashed humans)",
+            "Spuds",
+            "Squash",
             "Stone Dome",
             "Stone Humper",
             "Stone Sh*tter",
@@ -164,11 +164,10 @@
             "Pointy Ear",
             "Pole-Proportioned Dendrophile",
             "Rabbit",
-            "Sharp Ear",
             "Tinkerbell",
             "Tree F*cker",
             "Tree Hugger",
-            "Tree-Thumper",
+            "Tree Thumper",
             "Waste of Immortality",
             "Wedgie (they're uptight)",
             "Weed Eater",
@@ -191,7 +190,7 @@
             "Airhead",
             "Leaf Blower",
             "Spark Plug",
-            "Unfavorable Fart (from orcs; orcs aren't great at throwing shade)",
+            "Unfavorable Fart",
             "Windbag"
         ]
     },
@@ -227,8 +226,8 @@
     {
         "title" : "Giants",
         "list" : [
-            "Nesthair (birds tend to nest in high places)",
-            "Tumbletower (tall like a tower, but more easy to knock down)"
+            "Nest-hair",
+            "Tumbletower"
         ]
     },
     {
@@ -358,17 +357,17 @@
             "Pink-Skin",
             "Pink",
             "Quisling (a human who spends a lot of time around a dragonborn)",
-            "Rabbit Spawn (from elves because of how fast humans breed by comparison)",
+            "Rabbit Spawn",
             "Round Ear",
             "Roundteeth",
             "Short-Life",
             "Shortlived",
             "Smoothskin",
-            "Soft One (from lizardfolk)",
+            "Soft One",
             "Spoon-Ear",
             "Succling",
             "Swine",
-            "Tree-Killers (from elves)",
+            "Tree-Killer (from elves)",
             "Whore-Race (they're the reason for half breeds)",
             "World-Blight (from elves)"
         ]
